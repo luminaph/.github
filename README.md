@@ -24,4 +24,3 @@ Have a project in mind? Let’s build something amazing together!
 
 ---
 🚀 **Empowering Businesses. Innovating Beyond Expectations.**
-# .github
