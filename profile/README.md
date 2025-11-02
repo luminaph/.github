@@ -19,8 +19,8 @@ At Lumina Tech, we have served countless clients, from large enterprises to indi
 
 ## 📩 Get in Touch
 Have a project in mind? Let’s build something amazing together!  
-📧 **Email:** hello@luminatech.com  
-🌐 **Website:** [www.luminatech.com](https://www.luminatech.com)  
+📧 **Email:** hello@luminatech.dev
+🌐 **Website:** [luminatech.dev](https://luminatech.dev)  
 
 ---
 🚀 **Empowering Businesses. Innovating Beyond Expectations.**
